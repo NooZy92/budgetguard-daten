@@ -1,0 +1,12 @@
+{
+  "stand": "2026",
+  "eigenRisico": 385,
+  "kassen": [
+    { "name": "VinkVink", "sub": "online label van Menzis · combinatiepolis", "premium": 142.4 },
+    { "name": "Nationale-Nederlanden", "sub": "Zorg Voordelig", "premium": 142.45 },
+    { "name": "VGZ", "sub": "Basis Keuze (natura)", "premium": 149.9 },
+    { "name": "Zilveren Kruis", "sub": "Basis Start", "premium": 153.95 },
+    { "name": "DSW", "sub": "natura", "premium": 158.5 },
+    { "name": "a.s.r.", "sub": "duurste polis", "premium": 185.0 }
+  ]
+}

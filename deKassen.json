@@ -1,0 +1,24 @@
+{
+  "stand": "2026",
+  "baseRate": 14.6,
+  "bbgMonth": 5812.5,
+  "kassen": [
+    { "name": "TUI BKK", "zusatz": 2.5 },
+    { "name": "hkk", "zusatz": 2.59 },
+    { "name": "Audi BKK", "zusatz": 2.6 },
+    { "name": "TK (Techniker)", "zusatz": 2.69 },
+    { "name": "DAK-Gesundheit", "zusatz": 3.2 },
+    { "name": "Debeka BKK", "zusatz": 3.25 },
+    { "name": "BARMER", "zusatz": 3.29 },
+    { "name": "Salus BKK", "zusatz": 3.29 },
+    { "name": "Continentale BKK", "zusatz": 3.33 },
+    { "name": "IKK classic", "zusatz": 3.4 },
+    { "name": "R+V BKK", "zusatz": 3.49 },
+    { "name": "BKK mkk", "zusatz": 3.5 },
+    { "name": "Novitas BKK", "zusatz": 3.6 },
+    { "name": "BAHN-BKK", "zusatz": 3.65 },
+    { "name": "BIG direkt gesund", "zusatz": 3.69 },
+    { "name": "KKH", "zusatz": 3.78 },
+    { "name": "Knappschaft", "zusatz": 4.3 }
+  ]
+}
