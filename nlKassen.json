@@ -1,6 +1,7 @@
 {
   "stand": "2026",
   "eigenRisico": 385,
+  "eigenRisicoMax": 885,
   "kassen": [
     { "name": "VinkVink", "sub": "online label van Menzis · combinatiepolis", "premium": 142.4 },
     { "name": "Nationale-Nederlanden", "sub": "Zorg Voordelig", "premium": 142.45 },
@@ -8,5 +9,11 @@
     { "name": "Zilveren Kruis", "sub": "Basis Start", "premium": 153.95 },
     { "name": "DSW", "sub": "natura", "premium": 158.5 },
     { "name": "a.s.r.", "sub": "duurste polis", "premium": 185.0 }
+  ],
+  "kassen885": [
+    { "name": "VGZbewuzt", "sub": "naturapolis · online", "premium": 125.4 },
+    { "name": "Univé (Zorg Select)", "sub": "naturapolis", "premium": 125.4 },
+    { "name": "UnitedConsumers (Bewuste Keuze)", "sub": "naturapolis", "premium": 125.4 },
+    { "name": "a.s.r. (Juiste Keuze)", "sub": "vrije zorgkeuze", "premium": 153.5 }
   ]
 }
